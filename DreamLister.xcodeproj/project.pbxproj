@@ -56,7 +56,6 @@
 		B23EBCB51E1C8493003E3DAA /* DreamLister */ = {
 			isa = PBXGroup;
 			children = (
-				B23EBCDB1E1CE15C003E3DAA /* Model */,
 				B23EBCB61E1C8493003E3DAA /* AppDelegate.swift */,
 				B23EBCB81E1C8493003E3DAA /* ViewController.swift */,
 				B23EBCBA1E1C8493003E3DAA /* Main.storyboard */,
@@ -66,21 +65,6 @@
 				B23EBCBD1E1C8493003E3DAA /* DreamLister.xcdatamodeld */,
 			);
 			path = DreamLister;
-			sourceTree = "<group>";
-		};
-		B23EBCDB1E1CE15C003E3DAA /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				B23EBCDC1E1CE163003E3DAA /* Generated */,
-			);
-			name = Model;
-			sourceTree = "<group>";
-		};
-		B23EBCDC1E1CE163003E3DAA /* Generated */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Generated;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -317,6 +301,7 @@
 				B23EBCCA1E1C8493003E3DAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
